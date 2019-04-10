@@ -1,0 +1,29 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/akelmanson/.platformio/penv/bin:/Users/akelmanson/.platformio/penv:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/node@8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  },
+  "files.associations": {
+    "periph_ctrl.h": "c",
+    "cstdarg": "cpp",
+    "cstdint": "cpp",
+    "cstdio": "cpp",
+    "cstdlib": "cpp",
+    "exception": "cpp",
+    "limits": "cpp",
+    "type_traits": "cpp",
+    "typeinfo": "cpp",
+    "functional": "cpp",
+    "array": "cpp",
+    "*.tcc": "cpp",
+    "cctype": "cpp",
+    "clocale": "cpp",
+    "cwchar": "cpp",
+    "initializer_list": "cpp",
+    "iosfwd": "cpp",
+    "new": "cpp",
+    "stdexcept": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp"
+  }
+}
